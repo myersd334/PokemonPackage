@@ -119,3 +119,5 @@ Pokemon = R6Class(
 #' @format Each observation represents a different Pokemon. The observation includes the Pokemon name, type1, type2, starting HP, and whether or not they are awake.
 #' @source: kaggle.com
 'pokemon_data'
+
+#Testing out adding coments to github
